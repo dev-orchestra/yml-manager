@@ -1,2 +1,2 @@
-# yml-manager
-YML (Yandex Market Language, XML) files manage service. Required PHP version >= 7.4
+# YML (Yandex Market Language, XML) files manage service. 
+Required PHP version >= 7.4
